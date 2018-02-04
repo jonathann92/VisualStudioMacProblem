@@ -1,0 +1,3 @@
+[submodule "Radarr"]
+	path = Radarr
+	url = https://github.com/jonathann92/Radarr.git
